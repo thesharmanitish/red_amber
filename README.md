@@ -1,4 +1,4 @@
-# RedAmber
+# RedAmber 
 
 [![Gem Version](https://badge.fury.io/rb/red_amber.svg)](https://badge.fury.io/rb/red_amber)
 [![CI](https://github.com/heronshoes/red_amber/actions/workflows/ci.yml/badge.svg)](https://github.com/heronshoes/red_amber/actions/workflows/ci.yml)
